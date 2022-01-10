@@ -1,4 +1,4 @@
-package map_to_struct
+package map_struct
 
 import (
 	"errors"
